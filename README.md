@@ -6,8 +6,8 @@
 
 
   - __Product Owner__: Maria Al Qura'an
-  - __Scrum Master__: Toleen Ballol
-  - __Development Team Members__: Sara Al Nemer, Eithar Otum
+  - __Scrum Master__: Esra'a Shabrani
+  - __Development Team Members__: Farah Najjar, Eithar Otum
 
 ## Table of Contents
 
@@ -51,3 +51,6 @@ View the project roadmap [here](LINK_TO_PROJECT_ISSUES)
 ## Contributing
 
 See [CONTRIBUTING.md](https://github.com/unexpected-lion/ourglass/blob/master/contributing.md) for contribution guidelines.
+
+## Live Demo
+https://www.youtube.com/watch?v=qbNWfgE60mc
